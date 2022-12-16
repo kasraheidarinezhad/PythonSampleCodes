@@ -1,3 +1,5 @@
+<p align="center">
 # Educational Contents
-# Developer: Kasra Heidarinezhad
-# This repository contents Python codes dealing with images files
+</p>
+### Developer: Kasra Heidarinezhad
+### This repository contents Python codes dealing with images files
