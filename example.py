@@ -1,3 +1,7 @@
+# This Python code convert all images files in a specific folder to other file format in different folder
+# Date: Dec 12, 2022
+# Developer: Kasra Heidarinezhad
+
 from PIL import Image
 from pathlib import Path
 
