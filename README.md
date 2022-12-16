@@ -1,8 +1,4 @@
-<p align="center">
-# Educational Contents
-</p>
-
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Educational Contents</h1>
 
 ### Developer: Kasra Heidarinezhad
 
